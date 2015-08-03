@@ -8,6 +8,7 @@ the camera, implicit intents and more.
 Note: I have skipped the camera part of the project.
 
 Screenshot of the app:
+
 https://cloud.githubusercontent.com/assets/10178615/9038167/ec716ff0-39b7-11e5-8539-f1282838552e.png
 
 https://cloud.githubusercontent.com/assets/10178615/9038170/ed9dd1ac-39b7-11e5-9a75-c6b001b9fbb6.png
